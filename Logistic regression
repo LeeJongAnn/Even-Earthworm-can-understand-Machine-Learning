@@ -1,4 +1,4 @@
-class Logistic Neuron: 
+class Logistic Neuron: (로지스틱 회귀 뉴런을 정의하는 클래스)
 
   def_init_(self):
   self.w = None;
