@@ -5,6 +5,6 @@
       return z2
   def backprop(self,x,err): (오차를 역전파하는 함수)
       m = len(x) 
-      w1_grad = np.dot(self.a1.T,err)/m
-      b1_grad = np.sum(err)/m
+      w2_grad = np.dot(self.a1.T,err)/m
+      b2_grad = np.sum(err)/m
       err_to_hidden = np.dot(self.w2.T,err)*self.a1(1-self.a1)
