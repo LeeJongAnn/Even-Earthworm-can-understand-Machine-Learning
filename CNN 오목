@@ -20,6 +20,19 @@ class omok(QWidget):
         self.board_history = np.zeros([board_size,board_size])
         self.cnt = 1
         
+        time_now = time.gmtime(time.time())
+
         save_name =
         save_name_png = 
+
+        board = cv2.imread('source/board1515.png')
+        self.board = cv2.cvtColor(board,cv2.COLOR_BGR2RGB)
+
+        white_ball = cv2.imread('source/white_ball.png')
+        self.white_ball = cv2.cvtColor(white_ball,cv2.COLOR_BGR2RGB)
+
+        black_ball = cv2.imread('soucre/black_ball.png')
+        self.black_ball = cv2.cvtColor(black_ball,cv2.COLOR_BGR2RGB)
+
+        height , width, channel = self.board.shape
         
