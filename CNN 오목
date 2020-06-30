@@ -22,11 +22,13 @@ class omok(QWidget):
         
         time_now = time.gmtime(time.time())
 
-        save_name =
-        save_name_png = 
+        save_name = str(time_now.tm_year) + '_'+ str(time_now.tm_mon) + '_' + str(time_now.tm_mon)
+        + '_' + str(time_now.tm_mon)         
 
-        board = cv2.imread('source/board1515.png')
-        self.board = cv2.cvtColor(board,cv2.COLOR_BGR2RGB)
+        save_name_png = 
+        
+        board_cv2 = cv2.imread('source/board1515.png')
+        self.board = cv2.cvtColor(board_cv2,cv2.COLOR_BGR2RGB)
 
         white_ball = cv2.imread('source/white_ball.png')
         self.white_ball = cv2.cvtColor(white_ball,cv2.COLOR_BGR2RGB)
@@ -34,5 +36,19 @@ class omok(QWidget):
         black_ball = cv2.imread('soucre/black_ball.png')
         self.black_ball = cv2.cvtColor(black_ball,cv2.COLOR_BGR2RGB)
 
-        height , width, channel = self.board.shape
+        height , width, channel = self.board_cv2.shape
+        bytesPerLine = 3*width 
+        qimg_board = QImage(self.board_cv2.data,height,width,bytesPerLine,Qimage.Format_RGB888)
         
+        self.player = 1
+        x= 0 
+        y= 0 
+        self.lbl_img = QLabel()
+        self.lbl_img.setPixmap(QPixmap(qimg_board)) 
+        self.vbox = QVBoxLayout()
+        self.vbox.addWidget(self.lbl_img)
+        self.setLayout(self.vbox)
+        self.setWindowTitle('오목 시뮬레이션')
+        self.move(100,100) 
+        self.resize(500,500) 
+        self.show()
