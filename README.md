@@ -1,6 +1,3 @@
 # Machine-Learning
 
-It is Machine learning Algorithm 
-
-I will update regularly
-
+지렁이도 이해할 수 있는 머신러닝
