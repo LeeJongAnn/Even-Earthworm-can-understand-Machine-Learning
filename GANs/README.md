@@ -1,10 +1,13 @@
-# Introduction
+##캐글에 있는 내용을 번역한것 입니다.(제가 만든건 아니에요 , 해석만 했습니다.)
 
-- Generative Adversarial Networks (GANs)
-- How GANs Work
-- GANs Process
-- Examples
+# 도입부
 
+- 경쟁적 생성 신경망 (GANs)
+- GANs은 어떻게 작동하는가?
+- GANs의 과정
+- 예시
+
+### 경쟁적 생성 신경망(GANs)
 ### Generative Adversarial Networks (GANs)
 
 Generative Adversarial Networks are used to generate images that never existed before. They learn about the world (objects, animals and so forth) and create new versions of those images that never existed.
