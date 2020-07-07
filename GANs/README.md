@@ -12,11 +12,14 @@
 ### Generative Adversarial Networks (GANs)
 
 Generative Adversarial Networks are used to generate images that never existed before. They learn about the world (objects, animals and so forth) and create new versions of those images that never existed.
--적대적 생성 신경망은 이전에 없었던 이미지를 만들어냅니다. 신경망은 세상에 있는 물체 , 동물 등을 학습하고 새로운 버전으로 이전에 존재하지 않았던 것들을 만들어 줍니다.
+- 적대적 생성 신경망은 이전에 없었던 이미지를 만들어냅니다. 신경망은 세상에 있는 물체 , 동물 등을 학습하고 새로운 버전으로 이전에 존재하지 않았던 것들을 만들어 줍니다.
+
 They have two components:
--두개의 요소
+- 두개의 요소
+
 - A **Generator** - this creates the images.
   - 생성자 : 이것은 이미지를 만드는 것입니다.
+
 - A **Discriminator** - this assesses the images and tells the generator if they are similar to what it has been trained on. These are based off real world examples.
   - 판별자 : 이것은 이미지를 평가하여 생성자에게 전달합니다. 생성자가 만든것이 그들이 학습한 것과 유사한 것인지를 말해줍니다. 그들이 학습한 예들을 통해서 말이지요.
 When training the network, both the generator and discriminator start from scratch and learn together.
