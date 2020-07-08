@@ -3,7 +3,10 @@
 - 1.꽃분류하는 코드입니다.CNN으로 
 
   캐글에서 가져와서 작동시켜봤습니다.
+  
 ![너는 꽃이다](https://user-images.githubusercontent.com/50771738/86914609-91c4cd00-c15b-11ea-8d88-c2232d198e1c.png)
+- 예측한 결과
+
 ![꽃이다 2](https://user-images.githubusercontent.com/50771738/86914668-a739f700-c15b-11ea-996f-6f8148a1d019.png)
 
 - 2.연예인 인식하는 것으로 바꿔 봤습니다. 
