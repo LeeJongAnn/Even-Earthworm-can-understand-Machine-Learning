@@ -6,7 +6,7 @@
   
   데이터셋은 이곳에서 다운받을 수 있습니다 . 
   https://www.kaggle.com/alxmamaev/flowers-recognition
-  
+  원본 주소 : https://www.kaggle.com/madz2000/flowers-classification-using-vgg19-87-accuracy
 ![너는 꽃이다](https://user-images.githubusercontent.com/50771738/86914609-91c4cd00-c15b-11ea-8d88-c2232d198e1c.png)
 - 예측한 결과
 
