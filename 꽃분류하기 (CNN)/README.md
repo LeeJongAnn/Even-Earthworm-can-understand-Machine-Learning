@@ -30,4 +30,5 @@
 
   ![연예인 2](https://user-images.githubusercontent.com/50771738/87236551-f74bde80-c425-11ea-93e0-ff3ac4635609.png)
 
+  ![정확도](https://user-images.githubusercontent.com/50771738/87236605-527dd100-c426-11ea-8444-cc4b31608507.png)
 
