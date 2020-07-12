@@ -1,5 +1,5 @@
 # 디지털 화가의 그림 그리기 
-# 원본 주소: 
+# 원본 주소: https://www.kaggle.com/soumya044/artistic-neural-style-transfer-using-pytorch
 화가의 화풍을 적용해서 사진을 수정시켜 주는 코드 입니다.
 - 준비물 : 화가의 개성이 드러난 그림 , 다시 그리고 싶은 사진
 - 원본: https://www.kaggle.com/soumya044/artistic-neural-style-transfer-using-pytorch
