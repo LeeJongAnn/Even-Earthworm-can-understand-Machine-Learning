@@ -13,7 +13,7 @@
 
 ![꽃이다 2](https://user-images.githubusercontent.com/50771738/86914668-a739f700-c15b-11ea-996f-6f8148a1d019.png)
 
-- 2.연예인 인식하는 것으로 바꿔 봤습니다. 
+- 2.연예인 인식하는 것으로 바꿔 봤습니다. 데이터 셋은 네이버에 있는 이미지를 크롤링해서 가져왔습니다.
 
   각 연예인들의 사진은 네이버 이미지 크롤러를 이용해서 가져왔습니다.
 
@@ -24,5 +24,10 @@
   정확도는 매우 낮습니다. 
   
   수정이 필요해보입니다.
+
+  ![연예인 1](https://user-images.githubusercontent.com/50771738/87236550-f6b34800-c425-11ea-9144-f1b5b3e9fd04.png)
+
+
+  ![연예인 2](https://user-images.githubusercontent.com/50771738/87236551-f74bde80-c425-11ea-93e0-ff3ac4635609.png)
 
 
