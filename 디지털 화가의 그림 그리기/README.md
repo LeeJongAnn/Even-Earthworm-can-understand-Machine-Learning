@@ -2,7 +2,7 @@
 # 원본 주소: 
 화가의 화풍을 적용해서 사진을 수정시켜 주는 코드 입니다.
 - 준비물 : 화가의 개성이 드러난 그림 , 다시 그리고 싶은 사진
-- 원본: 
+- 원본: https://www.kaggle.com/soumya044/artistic-neural-style-transfer-using-pytorch
 ![__results___13_0](https://user-images.githubusercontent.com/50771738/87236834-e6e93300-c428-11ea-8ed1-5f691cdb55f5.png)
 ![__results___27_0](https://user-images.githubusercontent.com/50771738/87236833-e486d900-c428-11ea-8483-88681e177f00.png)
 
