@@ -1,4 +1,4 @@
-## (Warning!) 캐글에 있는 내용을 번역한것 입니다.(제가 만든건 아니에요 , 해석만 했습니다.)
+## (Warning!) 캐글에 있는 내용을 번역한것 입니다.
 ## 원본 주소 : https://www.kaggle.com/jesucristo/gan-introduction
 
 # 도입부
