@@ -21,8 +21,8 @@
 
 # 꽃 사진과 반고흐의 별이 빛나는 밤을 적용했습니다
 
-![반고흐 꽃](https://user-images.githubusercontent.com/50771738/87387091-f315f180-c5dc-11ea-9c4e-85ae9860a1cd.png)
+- ![반고흐 꽃](https://user-images.githubusercontent.com/50771738/87387091-f315f180-c5dc-11ea-9c4e-85ae9860a1cd.png)
 
-![반고흐 꽃](https://user-images.githubusercontent.com/50771738/87387193-28bada80-c5dd-11ea-83ba-2cb4729a44cf.png)
+ ![반고흐 꽃](https://user-images.githubusercontent.com/50771738/87387193-28bada80-c5dd-11ea-83ba-2cb4729a44cf.png)
 
 
