@@ -13,5 +13,7 @@
 # Dependencies (없으면 지렁이도 실행 못시킴) 
 
   -python 3.x 
+  
   -keras 2.1 
+  
   -tensorflow 2.2 
