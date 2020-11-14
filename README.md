@@ -1,6 +1,6 @@
 # Even-Earthworm-can-understand-Machine-Learning
 # 지렁이도 이해할 수 있는 머신러닝 
-# CNN을 최대한 업데이트 
+# CNN을 최대한 업데이트 중
 
 
 
