@@ -13,6 +13,8 @@
      * 신경망 마지막 Dense층에서 활성화 함수를 클래스가 3개인데 sigmoid함수로 줬다. softmax로 교차하면서 해결 !! 
 
 
+![폐렴](https://user-images.githubusercontent.com/50771738/99132702-93972380-265a-11eb-9b82-811ed0542ff0.png)
+* 오버피팅이 발생하는것으로 보인다. train set의 정확도도 그렇게 높지 않고 , validation set의 정확도는 매우 낮다 . epochs를 늘리던지 , 모델을 수정하던지 방법을 찾아봐야겠다.
 
 ## Dependencies (없으면 지렁이도 실행 못시킴)
 
